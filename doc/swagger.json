@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "API de cadastramento de Contas/Endereços",
+    "title": "API de cadastramento de Clientes/Endereços",
     "description": "Essa API tem como objetivo possibilitar um CRUD de cadastramento de contas e endereços",
     "contact": {
       "email": "medradoogabriel@gmail.com",
